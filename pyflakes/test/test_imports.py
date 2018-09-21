@@ -671,3 +671,4 @@ class Python26Tests(harness.Test):
         class foo:
             pass
         ''', m.UndefinedName)
+kek
